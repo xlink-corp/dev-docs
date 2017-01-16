@@ -8,9 +8,6 @@
   <div id="content-inner">
     <div class="article-container">
       <div class="article-inner">
-        {% if page.path === 'result/index.html' %}
-        {{ partial('partial/search-content') }}
-        {% endif %}
         <div class="novice novice-register text-center">
           <span class="close-novice"></span>
           <img src="/images/light.svg" width="52" height="56" alt="" class="light">
@@ -24,4 +21,3 @@
     </div>
   </div>
 </div>
-{{ partial('partial/search') }}

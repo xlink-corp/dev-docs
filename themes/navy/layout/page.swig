@@ -68,10 +68,10 @@
   <img src="/images/feed-bg.svg" class="feed-bg" alt="">
   <div class="feed-content">
     <div class="feed-text-content clearfix">
-      <img src="/images/feed-icon.svg" alt="">
-      <span class="feed-text">期待收到你的反馈，帮助我们改进文档。</span>
+      {# <img src="/images/feed-icon.svg" alt=""> #}
+      <span class="feed-text">有疑问或想了解更多，请咨询：<strong>400-042-4009<strong></span>
     </div>
-    <a href="https://www.wenjuan.com/s/jQN7Bj/" target='_blank' class="feed-link">参与调研</a>
+    <a href="https://www.wenjuan.com/s/jQN7Bj/" target='_blank' class="feed-link">立即免费开通</a>
   </div>
   <span class="close-feed"><img src="/images/close.svg" alt=""></span>
 </div>

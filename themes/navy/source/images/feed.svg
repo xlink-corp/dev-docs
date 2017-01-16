@@ -5,7 +5,7 @@
 	 width="103.43px" height="120.571px" viewBox="0 0 103.43 120.571" enable-background="new 0 0 103.43 120.571"
 	 xml:space="preserve">
 <g>
-	<path fill="none" stroke="#E6501E" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" d="M59.45,22.599
+	<path fill="none" stroke="#DD0036" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" d="M59.45,22.599
 		c-1.488-3.401-4.874-5.782-8.823-5.782s-7.335,2.382-8.823,5.782h-4.668v12.528h26.983V22.599H59.45z"/>
 	<path fill="none" stroke="#666666" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" d="M83.392,49.618
 		V36.779c0-5.17-4.191-9.361-9.361-9.361h-6.422"/>
@@ -44,7 +44,7 @@
 	<polyline fill="none" stroke="#666666" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" points="
 		42.263,82.117 42.263,94.506 29.807,94.506 29.807,82.05 42.263,82.117 	"/>
 	
-		<line opacity="0.2" fill="none" stroke="#E6501E" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" x1="19.933" y1="118.571" x2="81.322" y2="118.571"/>
+		<line opacity="0.2" fill="none" stroke="#DD0036" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" x1="19.933" y1="118.571" x2="81.322" y2="118.571"/>
 	<g>
 		<g>
 			<g>
@@ -64,7 +64,7 @@
 			<line opacity="0.1" fill="none" stroke="#231815" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" x1="56.919" y1="91.894" x2="53.961" y2="92.733"/>
 	</g>
 	
-		<circle fill="none" stroke="#E6501E" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" cx="50.627" cy="25.753" r="2.851"/>
+		<circle fill="none" stroke="#DD0036" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" cx="50.627" cy="25.753" r="2.851"/>
 	
 		<circle opacity="0.4" fill="none" stroke="#3C96E6" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" cx="72.121" cy="2" r="1.5"/>
 	

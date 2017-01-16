@@ -20,12 +20,8 @@ window.onload = function () {
     addClass(headerNavs[1], 'current')
   } else if (type === 'guide') {
     addClass(headerNavs[2], 'current')
-  } else if (type === 'api') {
+  } else if (type === 'advanced') {
     addClass(headerNavs[3], 'current')
-  } else if (type === 'resources') {
-    addClass(headerNavs[4], 'current')
-  } else if (type === 'console') {
-    addClass(headerNavs[5], 'current')
   }
 
 // 侧边栏收起

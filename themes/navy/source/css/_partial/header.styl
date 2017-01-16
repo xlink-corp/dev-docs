@@ -1,6 +1,7 @@
 header-padding-normal = 10px
 header-padding-max = 30px
-logo-size = 48px
+logo-width = 160px
+logo-height = 60px
 
 .pull-left
   float: left
@@ -24,7 +25,7 @@ logo-size = 48px
   left: 0
   top: 0
   z-index: 10000
-  padding-top: 20px
+  padding-top: 10px
   width: 100%
   max-width: 100%
   background-color: #fff
@@ -43,13 +44,14 @@ logo-size = 48px
   float: left
   width: auto
   border: 0
+  margin-bottom: 10px
 
 #logo
   hide-text()
-  background: url("/images/logo.svg")
+  background: url("/images/logo.png")
   background-size: contain
-  width: logo-size
-  height: logo-size
+  width: logo-width
+  height: logo-height
   background-size: @width @height
   display: block
 
@@ -57,7 +59,7 @@ logo-size = 48px
   display: none
   float: left
   position: relative
-  top: 10px
+  top: 20px
   padding-left: 114px
   @media mq-normal
     display: block
@@ -73,14 +75,14 @@ logo-size = 48px
   display: inline-block
   margin-left: 40px
   &:hover
-    color: #e6501e
+    color: #DD0036
     padding-bottom: 22px
-    border-bottom-color: #e6501e
+    border-bottom-color: #DD0036
     transition: padding-bottom 0.3s, border-bottom-color 0.3s
   &.current
-    color: #e6501e
+    color: #DD0036
     padding-bottom: 22px
-    border-bottom-color: #e6501e
+    border-bottom-color: #DD0036
 
 #lang-select-wrap
   display: none
@@ -92,7 +94,7 @@ logo-size = 48px
   color: #fff
   opacity: 0.7
 
-  line-height: logo-size
+  line-height: logo-height
   span
     padding-left: 8px
   i
@@ -178,7 +180,7 @@ logo-size = 48px
 
 .header-user
   position: relative
-  top: 16px
+  top: 26px
   margin: 0
 
 .login
@@ -186,7 +188,7 @@ logo-size = 48px
   text-decoration: none
 
 .login:hover
-  color: #e6501e
+  color: #DD0036
 
 .register
   margin-top: -6px

@@ -1,8 +1,35 @@
 overview:
-  Xlink概览:
-    简介: /overview/index.html
+  概览:
+    平台简介: /overview/index.html
 
-test:
-  测试:
-    说明: /test/index.html
-    发布: /test/deploy.html
+quickstart:
+  快速入门:
+    云平台入门: /quickstart/platform.html
+    Device: /quickstart/device.html
+    Android: /quickstart/android.html
+    iOS: /quickstart/ios.html
+    JS: /quickstart/js.html
+
+guide:
+  完整指南:
+    基本概念: /guide/concept.html
+    Android开发指南: /guide/android.html
+    iOS开发指南: /guide/ios.html
+    微信开发指南: /guide/wechat.html
+    设备固件开发指南: /guide/firmware.html
+    Windows SDK 集成文档: /guide/windows-sdk.html
+
+advanced:
+  进阶说明:
+    数据端点: /advanced/data-point.html
+    通知与告警: /advanced/alert.html
+    虚拟设备: /advanced/virtual-device.html
+    数据服务: /advanced/data-service.html
+    设备数据快照: /advanced/device-snapshot.html
+    短信和邮件: /advanced/sms-and-mail.html
+    经销商: /advanced/dealer.html
+    大客户: /advanced/heavy-buyer.html
+    平台应用插件功能说明: /advanced/plugin.html
+    Echo联动说明: /advanced/echo.html
+    Home概念: /advanced/home.html
+    平台OEM: /advanced/oem.html

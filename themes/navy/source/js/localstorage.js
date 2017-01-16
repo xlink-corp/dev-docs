@@ -67,24 +67,20 @@ var currentL = window.location.pathname.split('/')[1];
 
 var srcs = [{
   overview: '/overview/index.html',
-  quickstart: '/quickstart/sync/web.html',
-  guide: '/guide/sync/concept.html',
-  api: '/api/sync/web/App.html',
-  resources: '/resources/sync/web/tutorial.html',
-  console: '/console/creat.html'
+  quickstart: '/quickstart/platform.html',
+  guide: '/guide/concept.html',
+  advanced: '/advanced/data-point.html'
 }];
 
 var currentUrls = {
   overview: '',
   quickstart: '',
   guide: '',
-  api: '',
-  resources: '',
-  console: ''
+  advanced: ''
 };
 currentUrls = JSON.parse(sessionStorage.getItem('navsrc')) || currentUrls;
 
-var navlinks = ['overview', 'quickstart', 'guide', 'api', 'resources', 'console'];
+var navlinks = ['overview', 'quickstart', 'guide', 'advanced'];
 
 var links = [].slice.call(document.getElementsByClassName('sidebar-link'));
 var navs = [].slice.call(document.getElementsByClassName('main-nav-link'));

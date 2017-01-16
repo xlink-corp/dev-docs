@@ -12,7 +12,7 @@
     {% endfor %}
   {% endif %}
   <!-- Icon -->
-  <link rel="icon" type="image/png" href="{{ url_for('images/favicon.png') }}" sizes="24x24">
+  <link rel="icon" type="image/png" href="{{ url_for('images/favicon.ico') }}" sizes="24x24">
   <meta name="msapplication-TileColor" content="#2f83cd">
   <meta name="msapplication-TileImage" content="{{ url_for('icon/mstile-144x144.png') }}">
   <!-- CSS -->
